@@ -31,3 +31,12 @@ D:\SEMESTER 4\Tugas\PR\PAA\TugasMandiri2\obj\Debug\net8.0\refint\TugasMandiri2.d
 D:\SEMESTER 4\Tugas\PR\PAA\TugasMandiri2\obj\Debug\net8.0\TugasMandiri2.pdb
 D:\SEMESTER 4\Tugas\PR\PAA\TugasMandiri2\obj\Debug\net8.0\TugasMandiri2.genruntimeconfig.cache
 D:\SEMESTER 4\Tugas\PR\PAA\TugasMandiri2\obj\Debug\net8.0\ref\TugasMandiri2.dll
+D:\SEMESTER 4\Tugas\PR\PAA\TugasMandiri2\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SEMESTER 4\Tugas\PR\PAA\TugasMandiri2\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SEMESTER 4\Tugas\PR\PAA\TugasMandiri2\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SEMESTER 4\Tugas\PR\PAA\TugasMandiri2\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\SEMESTER 4\Tugas\PR\PAA\TugasMandiri2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\SEMESTER 4\Tugas\PR\PAA\TugasMandiri2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SEMESTER 4\Tugas\PR\PAA\TugasMandiri2\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\SEMESTER 4\Tugas\PR\PAA\TugasMandiri2\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SEMESTER 4\Tugas\PR\PAA\TugasMandiri2\obj\Debug\net8.0\TugasMandiri2.sourcelink.json
